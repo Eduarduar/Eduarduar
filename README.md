@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Greetings! 👋🏼 I'm Eduardo, an 18-year-old software development student from Mexico.<br><br>🚀 About me:<br>💻 I am passionate about the world of web development and desktop applications. I am constantly in the universe of code, I always like to learn and explore new frontiers of code.<br><br>👨‍💻 I'm in development, although for now I'm not very good with development teams and I like to learn little by little to work as a team. Additionally, I love sharing what I have learned, creating an environment of growth and camaraderie for everyone.<br><br>✨Things about me: Although I take my job seriously, I also like video games and anime. So, in addition to the lines of code, you can also expect from me to share pleasant moments with others. I'm here to make the world of development not only productive, but fun too! 😄
+Greetings! 👋🏼 I'm Eduardo, an 19-year-old software development student from Mexico.<br><br>🚀 About me:<br>💻 I am passionate about the world of web development and desktop applications. I am constantly in the universe of code, I always like to learn and explore new frontiers of code.<br><br>👨‍💻 I'm in development, although for now I'm not very good with development teams and I like to learn little by little to work as a team. Additionally, I love sharing what I have learned, creating an environment of growth and camaraderie for everyone.<br><br>✨Things about me: Although I take my job seriously, I also like video games and anime. So, in addition to the lines of code, you can also expect from me to share pleasant moments with others. I'm here to make the world of development not only productive, but fun too! 😄
 
 
 ## 🌐 Socials:
